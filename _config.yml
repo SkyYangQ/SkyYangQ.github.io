@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qihang Yang"
-description              : "Research Assistant @ IIE CAS; incoming M.Sc. CS @ HKU. Deep Learning, Computer Vision, Multi-modal Fusion, Uncertainty Estimation, and LLMs."
+description              : "Research Assistant @ IIE CAS; M.Sc. CS @ HKU. Deep Learning, Computer Vision, Multi-modal Fusion, Uncertainty Estimation, and LLMs."
 repository               : "SkyYangQ/SkyYangQ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Qihang Yang"
   avatar           : "images/me.png"
-  bio              : "Research Assistant @ IIE CAS; incoming M.Sc. in Computer Science @ HKU (2026)."
+  bio              : "Research Assistant @ IIE CAS; M.Sc. in Computer Science @ HKU (2026)."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
