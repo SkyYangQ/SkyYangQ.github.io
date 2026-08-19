@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Qihang Yang"
-description              : "Interested in Deep learning and LLM"
-repository               : "SkyYangQ/Qihang_Yang.github.io"
+description              : "Research Assistant @ IIE CAS; incoming M.Sc. CS @ HKU. Deep Learning, Computer Vision, Multi-modal Fusion, Uncertainty Estimation, and LLMs."
+repository               : "SkyYangQ/SkyYangQ.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,11 +23,11 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Qihang Yang"
   avatar           : "images/me.png"
-  bio              : ""
-  location         : "Beijing"
+  bio              : "Research Assistant @ IIE CAS; incoming M.Sc. in Computer Science @ HKU (2026)."
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=FcwHZ3oAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=FcwHZ3oAAAAJ"
   email            : "qihang.yang@std.uestc.edu.cn"
   researchgate     : 
   uri              :
