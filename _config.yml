@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qihang Yang"
-description              : "Research interests: Deep Learning, Computer Vision, Multi-modal Fusion, Uncertainty Estimation, and Large Language Models."
+description              : "Reliable Multimodal Learning for Autonomous and Embodied Systems"
 repository               : "SkyYangQ/SkyYangQ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Qihang Yang"
   avatar           : "images/me.png"
-  bio              : "Currently a student."
+  bio              : "M.Sc. Student at HKU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FcwHZ3oAAAAJ"
-  email            : "qihang.yang@std.uestc.edu.cn"
+  email            : "qihang.yang@connect.hku.hk"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-4265-2239"
+  orcid            : "https://orcid.org/0009-0005-4265-2239"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
