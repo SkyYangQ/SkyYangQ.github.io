@@ -2,4 +2,4 @@
 
 I am **Qihang Yang**, an M.Sc. student at The University of Hong Kong.
 
-**Research Interests:** Reliable Multimodal Intelligence for Autonomous and Embodied Systems, with interests in uncertainty estimation, vision-language-action models, and reinforcement learning.
+**Research Interests:** Reliable Multimodal Intelligence for Autonomous Systems, with interests in uncertainty estimation, vision-language-action models, and reinforcement learning.
