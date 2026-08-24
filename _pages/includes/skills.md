@@ -2,7 +2,6 @@
 # 💻 Technical Skills
 
 - **Programming:** Python, C, MATLAB, Linux shell, LaTeX
-- **LLM Training:** PyTorch, veRL; SFT, DPO, GRPO; RLHF
-- **RL Engineering:** RL training pipelines — data preparation, rollout, reward computation, optimization, evaluation
+- **LLM Post-training:** PyTorch, veRL; SFT, DPO, and GRPO; rollout, reward computation, optimization, and evaluation pipelines
 - **Perception:** Object detection, BEV segmentation, multimodal fusion, uncertainty estimation; YOLOv8, DETR, BEVFusion, deep ensembles
-- **Software:** Git, Linux, PyCharm, Xshell, LaTeX
+- **Tools:** Git, Linux

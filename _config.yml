@@ -7,9 +7,8 @@
 
 # Site Settings
 title                    : "Qihang Yang"
-description              : "Reliable Multimodal Learning for Autonomous Systems"
+description              : "Reliable AI across Multimodal Perception and Large Language Models"
 repository               : "SkyYangQ/SkyYangQ.github.io"
-google_scholar_stats_use_cdn : true
 
 # google analytics
 # google_analytics_id      : 
