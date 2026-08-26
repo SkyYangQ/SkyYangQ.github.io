@@ -1,7 +1,8 @@
 
 # 💻 Technical Skills
 
-- **Programming:** Python, C, MATLAB, Linux shell, LaTeX
-- **LLM Post-training:** PyTorch, veRL; SFT, DPO, and GRPO; rollout, reward computation, optimization, and evaluation pipelines
-- **Perception:** Object detection, BEV segmentation, multimodal fusion, uncertainty estimation; YOLOv8, DETR, BEVFusion, deep ensembles
-- **Tools:** Git, Linux
+- **Programming:** Python, C, MATLAB, Bash
+- **Deep Learning Frameworks:** PyTorch, Verl
+- **LLM Post-Training:** SFT, DPO, GRPO; rollout, reward computation, and training and evaluation pipelines
+- **Multimodal Perception:** Object detection, BEV segmentation, camera–LiDAR fusion, and uncertainty estimation; YOLOv8, DETR, BEVFusion, and deep ensembles
+- **Development Tools:** Git, Linux, LaTeX
