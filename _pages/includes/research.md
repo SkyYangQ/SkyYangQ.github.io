@@ -12,8 +12,8 @@
 
 *Undergraduate Research Assistant, Center for Robotics, UESTC · Chengdu, China · 2024.02–2025.05*
 
-- Developed a plug-and-play decision-level framework for fusing camera and LiDAR detections while preserving interpretable predictive uncertainty.
-- Modeled modality-specific evidence using subjective logic and Dempster–Shafer fusion, producing research published in *Drones* and at CVCI 2025. [[Journal Paper]](https://www.mdpi.com/2504-446X/10/2/130) [[Conference Paper]](https://ieeexplore.ieee.org/abstract/document/11348238)
+- Developed a plug-and-play late-fusion framework for fusing camera and LiDAR detections while preserving interpretable predictive uncertainty.
+- Integrated evidence-theoretic uncertainty quantification into classification fusion using subjective logic and Dempster–Shafer theory, reducing predictive uncertainty by up to 78% on KITTI; results were published in *Drones* and at CVCI 2025. [[Journal Paper]](https://www.mdpi.com/2504-446X/10/2/130) [[Conference Paper]](https://ieeexplore.ieee.org/abstract/document/11348238)
 
 ### PETRFusion: Multisensor BEV Semantic Segmentation
 
